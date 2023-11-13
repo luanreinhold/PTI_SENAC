@@ -69,14 +69,7 @@ export class HQ {
     }
 }
 
-const Manga = new HQ(
-  "Aventuras do Super-Herói", // Título
-  5, // Número da edição
-  "Autor Desconhecido", // Autor
-  2022, // Ano de publicação
-  ["Ação e Aventura"], // Gênero
-  "Português" // Idiomas
-);
+
 
 
 
