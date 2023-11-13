@@ -6,6 +6,7 @@ Caso de uso: <br>
 ![casouso](https://github.com/luanreinhold/PTI_SENAC/assets/104692963/914175dc-0be1-461e-b5f1-b0cae6076efa)
 
 UML (Unified Modeling Language): <br>
+![image](https://github.com/luanreinhold/PTI_SENAC/assets/104692963/84bf5d72-f167-4ddc-87eb-cb75d45940b3)
 
 
 Conceitos utilizados:
